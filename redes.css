@@ -5,9 +5,10 @@ body {
 }
 img#iphone {
     display: block;
-    width: 20em;
-    height: 38em;
+    width: 311px;
+    height: 607px;
     margin: auto;
+
 }
 iframe {
     display: block;
@@ -15,6 +16,7 @@ iframe {
     width: 17.7em;
     margin: auto;
     margin-top: -33.7em;
+    background-attachment: fixed;
 }
 ul {
     margin-top: -30em;
